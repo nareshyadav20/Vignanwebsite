@@ -1,0 +1,52 @@
+form{
+    border: solid 1px;
+    width: 600px;
+    background-color: rgba(255, 94, 0, 0.589);
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    margin-left: 350px;
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 30%;
+}
+label{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgba(0, 255, 51, 0.591);
+}
+input{
+    width: 500px;
+    height: 30px;
+    outline: none;
+    border-radius: 20px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+textarea{
+    width: 500px;
+    height: 120px;
+    border-radius: 20px;
+    font-size: 20px;
+    padding-left: 20px;
+
+}
+h1{
+    font-size: 40px;
+    color: rgb(255, 3, 3);
+    text-align: center;
+
+}
+button{
+    width: 160px;
+    height: 50px;
+    background-color: rgb(222, 20, 20);
+    border-radius: 30px;
+    font-size: 28px;
+}
+button a{
+    color: aliceblue;
+    text-decoration:none;
+}
+body{
+    background-color: rgba(128, 0, 62, 0.548);
+}
